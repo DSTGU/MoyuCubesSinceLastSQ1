@@ -32,9 +32,10 @@ function App() {
         ))}
       </ul>
         
-      <h2 className='display-4'>Moyu, seriously. Stop</h2>
-      <p className='lead'>And there are already other 3x3s leaked</p>
-      <p>Let me know if I missed something, I probably did</p>
+      <h2 className='display-3'>Moyu, seriously. Stop</h2>
+      <p className='display-6'>And there are already other 3x3s leaked</p>
+      <p className='lead'>Let me know if I missed something, I probably did</p>
+      <p><a href='https://github.com/DSTGU/MoyuCubesSinceLastSQ1'>Github</a>  Last update: 2024.05.10</p>
     
     </div>
   );
