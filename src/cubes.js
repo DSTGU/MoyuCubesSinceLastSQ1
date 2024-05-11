@@ -1,4 +1,5 @@
 const cubes = [
+    { id: 0, text: "Moyu Smart Cube Based on WRM V10 (leak?)", variants: [""]},
     { id: 1, text: "Moyu Weilong WRM V10", date: "06-2018", variants: ["20 Magnet BC UV Maglev", "20 Magnet BC UV", "UV", "Standard"]},
     { id: 2, text: "MoFang JiaoShi Meilong 3M V2", date: "06-2018", variants: ["UV", "Standard", "Lite"]},
     { id: 3, text: "Moyu Super Weilong", date: "06-2018", variants: ["20 BC Maglev Lite", "BC Maglev Lite", "BC Lite", "20 BC Maglev", "BC Maglev", "BC"]},
